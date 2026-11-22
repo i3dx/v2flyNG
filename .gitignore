@@ -24,6 +24,7 @@ V2flyNG/local.properties
 # Ignore APK and AAR files
 *.apk
 *.aar
+!V2flyNG/app/libs/libv2ray.aar
 
 # Ignore signing properties
 signing.properties
